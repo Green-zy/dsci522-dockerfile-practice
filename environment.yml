@@ -1,3 +1,5 @@
+# This file is adapted from work by Tiffany A. Timbers in dsci522-dockerfile-practice repository
+# Link: https://github.com/ttimbers/dsci522-dockerfile-practice/blob/main/environment.yml 
 name: dsci522-dockerfile-practice
 channels:
  - conda-forge
